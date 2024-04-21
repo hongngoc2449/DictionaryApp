@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/envn_item"
+        android:title="English - Vietnamese"
+        android:icon="@drawable/home"
+        android:orderInCategory="100"
+        />
+    <item
+        android:id="@+id/eng_eng_item"
+        android:icon="@drawable/bookmark"
+        android:title="English - English"
+        android:orderInCategory="100"
+        />
+    <item
+        android:id="@+id/vnen_item"
+        android:title="Vietnamese - English"
+        android:icon="@drawable/edit"
+        android:orderInCategory="100"
+        />
+    <item
+        android:id="@+id/fav_item"
+        android:title="Favourites"
+        android:icon="@drawable/favorites"
+        android:orderInCategory="100"
+        />
+    <item
+        android:id="@+id/your_word_item"
+        android:title="Your words"
+        android:icon="@drawable/yourword"
+        android:orderInCategory="100"
+        />
+    <item
+        android:id="@+id/share_item"
+        android:title="Share"
+        android:icon="@drawable/share"
+        android:orderInCategory="100"
+        />
+    <item
+        android:id="@+id/help_item"
+        android:title="Help"
+        android:icon="@drawable/phone"
+        android:orderInCategory="100"
+        />
+</menu>
